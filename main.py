@@ -1,7 +1,7 @@
 import streamlit as st
 
 def hello_world():
-    return "Hello, World!"
+    return "Bom dia Turma!"
 
 def main():
     st.write(hello_world())
